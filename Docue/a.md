@@ -2,7 +2,7 @@
 
 Respon is park respon.
 
-Respon is reply any.
+Respon is reply apply of any.
 
 Respon word is "yes" when the any apply.
 
